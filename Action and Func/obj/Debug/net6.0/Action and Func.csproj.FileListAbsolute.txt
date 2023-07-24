@@ -1,0 +1,15 @@
+C:\GIT\InterviewQuestions\Action and Func\bin\Debug\net6.0\Action and Func.exe
+C:\GIT\InterviewQuestions\Action and Func\bin\Debug\net6.0\Action and Func.deps.json
+C:\GIT\InterviewQuestions\Action and Func\bin\Debug\net6.0\Action and Func.runtimeconfig.json
+C:\GIT\InterviewQuestions\Action and Func\bin\Debug\net6.0\Action and Func.dll
+C:\GIT\InterviewQuestions\Action and Func\bin\Debug\net6.0\ref\Action and Func.dll
+C:\GIT\InterviewQuestions\Action and Func\bin\Debug\net6.0\Action and Func.pdb
+C:\GIT\InterviewQuestions\Action and Func\obj\Debug\net6.0\Action and Func.csproj.AssemblyReference.cache
+C:\GIT\InterviewQuestions\Action and Func\obj\Debug\net6.0\Action and Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\InterviewQuestions\Action and Func\obj\Debug\net6.0\Action and Func.AssemblyInfoInputs.cache
+C:\GIT\InterviewQuestions\Action and Func\obj\Debug\net6.0\Action and Func.AssemblyInfo.cs
+C:\GIT\InterviewQuestions\Action and Func\obj\Debug\net6.0\Action and Func.csproj.CoreCompileInputs.cache
+C:\GIT\InterviewQuestions\Action and Func\obj\Debug\net6.0\Action and Func.dll
+C:\GIT\InterviewQuestions\Action and Func\obj\Debug\net6.0\ref\Action and Func.dll
+C:\GIT\InterviewQuestions\Action and Func\obj\Debug\net6.0\Action and Func.pdb
+C:\GIT\InterviewQuestions\Action and Func\obj\Debug\net6.0\Action and Func.genruntimeconfig.cache

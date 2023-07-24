@@ -1,0 +1,15 @@
+C:\GIT\InterviewQuestions\FilterItensByItsChilds_AnotherList\bin\Debug\net6.0\FilterItensByItsChilds_AnotherList.exe
+C:\GIT\InterviewQuestions\FilterItensByItsChilds_AnotherList\bin\Debug\net6.0\FilterItensByItsChilds_AnotherList.deps.json
+C:\GIT\InterviewQuestions\FilterItensByItsChilds_AnotherList\bin\Debug\net6.0\FilterItensByItsChilds_AnotherList.runtimeconfig.json
+C:\GIT\InterviewQuestions\FilterItensByItsChilds_AnotherList\bin\Debug\net6.0\FilterItensByItsChilds_AnotherList.dll
+C:\GIT\InterviewQuestions\FilterItensByItsChilds_AnotherList\bin\Debug\net6.0\ref\FilterItensByItsChilds_AnotherList.dll
+C:\GIT\InterviewQuestions\FilterItensByItsChilds_AnotherList\bin\Debug\net6.0\FilterItensByItsChilds_AnotherList.pdb
+C:\GIT\InterviewQuestions\FilterItensByItsChilds_AnotherList\obj\Debug\net6.0\FilterItensByItsChilds_AnotherList.csproj.AssemblyReference.cache
+C:\GIT\InterviewQuestions\FilterItensByItsChilds_AnotherList\obj\Debug\net6.0\FilterItensByItsChilds_AnotherList.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\InterviewQuestions\FilterItensByItsChilds_AnotherList\obj\Debug\net6.0\FilterItensByItsChilds_AnotherList.AssemblyInfoInputs.cache
+C:\GIT\InterviewQuestions\FilterItensByItsChilds_AnotherList\obj\Debug\net6.0\FilterItensByItsChilds_AnotherList.AssemblyInfo.cs
+C:\GIT\InterviewQuestions\FilterItensByItsChilds_AnotherList\obj\Debug\net6.0\FilterItensByItsChilds_AnotherList.csproj.CoreCompileInputs.cache
+C:\GIT\InterviewQuestions\FilterItensByItsChilds_AnotherList\obj\Debug\net6.0\FilterItensByItsChilds_AnotherList.dll
+C:\GIT\InterviewQuestions\FilterItensByItsChilds_AnotherList\obj\Debug\net6.0\ref\FilterItensByItsChilds_AnotherList.dll
+C:\GIT\InterviewQuestions\FilterItensByItsChilds_AnotherList\obj\Debug\net6.0\FilterItensByItsChilds_AnotherList.pdb
+C:\GIT\InterviewQuestions\FilterItensByItsChilds_AnotherList\obj\Debug\net6.0\FilterItensByItsChilds_AnotherList.genruntimeconfig.cache

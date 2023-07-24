@@ -1,0 +1,15 @@
+C:\GIT\InterviewQuestions\Events and Delegates 2\bin\Debug\net6.0\Events and Delegates 2.exe
+C:\GIT\InterviewQuestions\Events and Delegates 2\bin\Debug\net6.0\Events and Delegates 2.deps.json
+C:\GIT\InterviewQuestions\Events and Delegates 2\bin\Debug\net6.0\Events and Delegates 2.runtimeconfig.json
+C:\GIT\InterviewQuestions\Events and Delegates 2\bin\Debug\net6.0\Events and Delegates 2.dll
+C:\GIT\InterviewQuestions\Events and Delegates 2\bin\Debug\net6.0\ref\Events and Delegates 2.dll
+C:\GIT\InterviewQuestions\Events and Delegates 2\bin\Debug\net6.0\Events and Delegates 2.pdb
+C:\GIT\InterviewQuestions\Events and Delegates 2\obj\Debug\net6.0\Events and Delegates 2.csproj.AssemblyReference.cache
+C:\GIT\InterviewQuestions\Events and Delegates 2\obj\Debug\net6.0\Events and Delegates 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\InterviewQuestions\Events and Delegates 2\obj\Debug\net6.0\Events and Delegates 2.AssemblyInfoInputs.cache
+C:\GIT\InterviewQuestions\Events and Delegates 2\obj\Debug\net6.0\Events and Delegates 2.AssemblyInfo.cs
+C:\GIT\InterviewQuestions\Events and Delegates 2\obj\Debug\net6.0\Events and Delegates 2.csproj.CoreCompileInputs.cache
+C:\GIT\InterviewQuestions\Events and Delegates 2\obj\Debug\net6.0\Events and Delegates 2.dll
+C:\GIT\InterviewQuestions\Events and Delegates 2\obj\Debug\net6.0\ref\Events and Delegates 2.dll
+C:\GIT\InterviewQuestions\Events and Delegates 2\obj\Debug\net6.0\Events and Delegates 2.pdb
+C:\GIT\InterviewQuestions\Events and Delegates 2\obj\Debug\net6.0\Events and Delegates 2.genruntimeconfig.cache
